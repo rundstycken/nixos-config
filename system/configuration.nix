@@ -108,6 +108,7 @@
     fzf
     git
     dotnet-sdk_8
+    lazygit
     ];
   };
 
