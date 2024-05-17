@@ -24,7 +24,6 @@
                 mountpoint = "/";
               };
             };
-            };
             plainSwap = {
               size = "100%";
               content = {
